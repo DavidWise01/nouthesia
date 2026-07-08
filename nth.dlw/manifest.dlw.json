@@ -9,5 +9,12 @@
   "seal": "νουθεσία — these books are not predictions but admonitions: learn the lesson, the authors beg, before you have to live it.",
   "seal_sha256": "25414055362573510caa4f482fd606fe235ff51ea7475f9d9d9990f7d80c1400",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 666,
+    "prev": "a3d18f00f651f4b4e40c21cce9e10006780971ea03ddafac2e964896dd85bf35",
+    "link": "eadf543d6ba0030ba4f31df4847f40cafb107401cc4580b5fcc6d202f777c0c5",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
